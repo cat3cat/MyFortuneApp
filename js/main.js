@@ -84,5 +84,10 @@
     result.src = results[n];
     resultText.textContent = resultsTexts[n];
     resultCommentary.textContent = resultCommentarys[n];
+
+    if(btn.classList.contains('active')){
+      return;
+    }
+    btn.classList.add('active');
   });
 }

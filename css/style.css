@@ -5,7 +5,7 @@ body{
 }
 
 main{
-  width: 240px;
+  width: 360px;
   margin: 32px auto;
 }
 
@@ -29,8 +29,8 @@ h1{
 }
 
 img{
-  width: 200px;
-  height: 300px;
+  width: 340px;
+  height: 450px;
   padding: 12px auto;
 }
 
@@ -62,4 +62,9 @@ button{
     color: rgb(225, 223, 240);
     background: rgb(110, 95, 209);
     text-align: center;
+  }
+
+  .active{
+    pointer-events: none;
+    opacity: 0.5;
   }
