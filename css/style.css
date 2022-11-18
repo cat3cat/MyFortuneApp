@@ -62,9 +62,14 @@ button{
     color: rgb(225, 223, 240);
     background: rgb(110, 95, 209);
     text-align: center;
+    font-size: 18px;
   }
 
   .active{
     pointer-events: none;
     opacity: 0.5;
+  }
+
+  .reverse{
+    transform: scale(-1,1) rotate(180deg);
   }
