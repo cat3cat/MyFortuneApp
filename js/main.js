@@ -8,7 +8,7 @@
   btn.addEventListener('click',()=>{
     
     const results = [      
-      'img/00fool.png',
+      'img/00Fool.png',
       'img/01Magician.png',
       'img/02HighPriestess.png',
       'img/03Empress.png',
