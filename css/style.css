@@ -63,10 +63,12 @@ button{
     background: rgb(110, 95, 209);
     text-align: center;
     font-size: 18px;
+    user-select: none;
   }
 
   .active{
     pointer-events: none;
+    user-select: none;
     opacity: 0.5;
   }
 
