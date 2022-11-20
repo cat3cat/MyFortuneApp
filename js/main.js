@@ -11,7 +11,7 @@
     const results = [      
       'img/00TheFool.png',
       'img/01TheMagician.png',
-      'img/02High Priestess.png',
+      'img/02TheHigh Priestess.png',
       'img/03The Empress.png',
       'img/04The Emperor.png',
       'img/05TheHierophant.png',
